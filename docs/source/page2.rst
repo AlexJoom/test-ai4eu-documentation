@@ -32,3 +32,8 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. toctree::
+
+   page1
+   page2
+

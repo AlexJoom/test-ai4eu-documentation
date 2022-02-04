@@ -6,3 +6,8 @@ Page 1
 
    page1
    page2
+
+.. toctree::
+
+   page1
+   page2
