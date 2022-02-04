@@ -1,7 +1,7 @@
-API
+Page 1
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   page1

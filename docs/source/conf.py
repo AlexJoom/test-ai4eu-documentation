@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AI4EU'
+copyright = '2022, A4EU'
+author = 'A4EU'
 
 release = '0.1'
 version = '0.1.0'
