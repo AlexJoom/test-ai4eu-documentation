@@ -6,8 +6,8 @@ project = 'AI4EU'
 copyright = '2022, A4EU'
 author = 'A4EU'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0'
 
 # -- General configuration
 
@@ -30,6 +30,11 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = "ai4eu.png"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

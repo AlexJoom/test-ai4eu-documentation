@@ -3,15 +3,17 @@ AI4EU documentation!
 
 **A few words** about the project
 
-It pulls data from the `LINK EXAMPLE <https://www.google.com/>`_
-and offers a *simple* and *intuitive* API.
+Examples of how to use the reStructuredText syntaxt can be found `here <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+
+Example of reference to a page: See :doc:`page1` section
+
+Example of reference to a chapter withing the page to :ref:`reference1` the project.
 
 .. note::
 
-   This project is under active development.
+   example of how to create a note
 
 Contents
 --------

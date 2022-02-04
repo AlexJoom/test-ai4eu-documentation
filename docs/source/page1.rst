@@ -1,13 +1,12 @@
 Page 1
-=====
+==========
 
-.. autosummary::
-   :toctree: generated
+Subcontent of page 1
+------------------------
+same information goes here
 
-   page1
-   page2
+Subcontent of page 1
+------------------------
+same information goes here
 
-.. toctree::
 
-   page1
-   page2
